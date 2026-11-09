@@ -1,0 +1,187 @@
+{
+  "schema_version": "1.0",
+  "type": "liste",
+  "name": "Liste fun CK",
+  "faction": "Chevaliers du Chaos",
+  "detachments": [
+    "Bastion de Tyrannie",
+    "Traitoris Lance"
+  ],
+  "strategy": "Éliminez l’Adversaire",
+  "battle_size": 2000,
+  "total_points": 1985,
+  "source": {
+    "app_version": "v2.8.1 (149)",
+    "data_version": "v995"
+  },
+  "attached_groups": [],
+  "units": [
+    {
+      "id": "u01",
+      "name": "Knight Desecrator",
+      "points": 350,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Desecrator laser destructor"
+        },
+        {
+          "count": 1,
+          "name": "Diabolus heavy stubber"
+        },
+        {
+          "count": 1,
+          "name": "Warpstrike claw"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u02",
+      "name": "Knight Despoiler",
+      "points": 380,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Daemonbreath meltagun"
+        },
+        {
+          "count": 2,
+          "name": "Despoiler battle cannon"
+        },
+        {
+          "count": 2,
+          "name": "Diabolus heavy stubber"
+        },
+        {
+          "count": 1,
+          "name": "Ruinspear rocket pod"
+        },
+        {
+          "count": 1,
+          "name": "Titanic feet"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u03",
+      "name": "Knight Despoiler",
+      "points": 410,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Daemonbreath meltagun"
+        },
+        {
+          "count": 2,
+          "name": "Despoiler battle cannon"
+        },
+        {
+          "count": 2,
+          "name": "Diabolus heavy stubber"
+        },
+        {
+          "count": 1,
+          "name": "Ruinspear rocket pod"
+        },
+        {
+          "count": 1,
+          "name": "Titanic feet"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u04",
+      "name": "Knight Despoiler",
+      "points": 435,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Daemonbreath meltagun"
+        },
+        {
+          "count": 2,
+          "name": "Despoiler battle cannon"
+        },
+        {
+          "count": 2,
+          "name": "Diabolus heavy stubber"
+        },
+        {
+          "count": 1,
+          "name": "Ruinspear rocket pod"
+        },
+        {
+          "count": 1,
+          "name": "Titanic feet"
+        }
+      ],
+      "options": [
+        {
+          "type": "optimisation",
+          "name": "Tyrant’s Shadow"
+        }
+      ]
+    },
+    {
+      "id": "u05",
+      "name": "Knight Tyrant",
+      "points": 410,
+      "role": null,
+      "unit_type": null,
+      "warlord": true,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Brimstone volcano lance"
+        },
+        {
+          "count": 1,
+          "name": "Ectoplasma decimator"
+        },
+        {
+          "count": 2,
+          "name": "Gheiststrike missile launcher"
+        },
+        {
+          "count": 1,
+          "name": "Titanic feet"
+        },
+        {
+          "count": 1,
+          "name": "Twin Desecrator cannon"
+        },
+        {
+          "count": 2,
+          "name": "Twin daemonbreath meltagun"
+        }
+      ],
+      "options": [
+        {
+          "type": "optimisation",
+          "name": "Domination par la Haine"
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

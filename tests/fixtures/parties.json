@@ -1,0 +1,1113 @@
+[
+  {
+    "schema_version": "1.0",
+    "type": "partie",
+    "game_date": "2026-08-21",
+    "edition": "11e",
+    "rules_source": "Core Rulebook Missions",
+    "mission_pack": "Default Missions",
+    "deployment": "Tipping Point",
+    "special_rules": "None",
+    "missions": [
+      "Reconnaissance Sweep",
+      "Purge and Secure"
+    ],
+    "players": [
+      {
+        "name": "Zenthea",
+        "is_me": true,
+        "faction": "Drukhari",
+        "disposition": "Reconnaissance",
+        "went_first": false,
+        "tournament_score": 12,
+        "tournament_result": "victory",
+        "primary": {
+          "name": "Reconnaissance Sweep",
+          "per_turn": [
+            6,
+            9,
+            10,
+            6,
+            10
+          ],
+          "raw_total": 41,
+          "total": 41
+        },
+        "secondaries": [
+          {
+            "name": "Cleanse",
+            "per_turn": [
+              5,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Burden of Trust",
+            "per_turn": [
+              2,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Defend Stronghold",
+            "per_turn": [
+              0,
+              5,
+              0,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "No Prisoners",
+            "per_turn": [
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Display of Might",
+            "per_turn": [
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Forward Position",
+            "per_turn": [
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Secure No Man's Land",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Overwhelming Force",
+            "per_turn": [
+              0,
+              0,
+              0,
+              3,
+              0
+            ],
+            "total": 3
+          },
+          {
+            "name": "Engage On All Fronts",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          },
+          {
+            "name": "A Tempting Target",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Bring It Down",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          }
+        ],
+        "secondaries_total": 34,
+        "battle_ready": 10,
+        "battle_points": 85,
+        "points_by_turn": [
+          {
+            "tour": 1,
+            "primaire": 6,
+            "secondaires": 7,
+            "total": 13,
+            "cumul": 13
+          },
+          {
+            "tour": 2,
+            "primaire": 9,
+            "secondaires": 5,
+            "total": 14,
+            "cumul": 27
+          },
+          {
+            "tour": 3,
+            "primaire": 10,
+            "secondaires": 9,
+            "total": 19,
+            "cumul": 46
+          },
+          {
+            "tour": 4,
+            "primaire": 6,
+            "secondaires": 8,
+            "total": 14,
+            "cumul": 60
+          },
+          {
+            "tour": 5,
+            "primaire": 10,
+            "secondaires": 5,
+            "total": 15,
+            "cumul": 75
+          }
+        ]
+      },
+      {
+        "name": "DaskaR",
+        "is_me": false,
+        "faction": "Space Marines Du Chaos",
+        "disposition": "Take And Hold",
+        "went_first": true,
+        "tournament_score": 8,
+        "tournament_result": "defeat",
+        "primary": {
+          "name": "Purge and Secure",
+          "per_turn": [
+            0,
+            10,
+            6,
+            6,
+            10
+          ],
+          "raw_total": 32,
+          "total": 32
+        },
+        "secondaries": [
+          {
+            "name": "Engage On All Fronts",
+            "per_turn": [
+              0,
+              0,
+              0,
+              3,
+              0
+            ],
+            "total": 3
+          },
+          {
+            "name": "Bring It Down",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Beacon",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              3
+            ],
+            "total": 3
+          },
+          {
+            "name": "Display of Might",
+            "per_turn": [
+              0,
+              0,
+              0,
+              2,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Burden of Trust",
+            "per_turn": [
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Assassination",
+            "per_turn": [
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Behind Enemy Lines",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Secure No Man's Land",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Overwhelming Force",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              3
+            ],
+            "total": 3
+          },
+          {
+            "name": "Cleanse",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          }
+        ],
+        "secondaries_total": 28,
+        "battle_ready": 10,
+        "battle_points": 70,
+        "points_by_turn": [
+          {
+            "tour": 1,
+            "primaire": 0,
+            "secondaires": 0,
+            "total": 0,
+            "cumul": 0
+          },
+          {
+            "tour": 2,
+            "primaire": 10,
+            "secondaires": 0,
+            "total": 10,
+            "cumul": 10
+          },
+          {
+            "tour": 3,
+            "primaire": 6,
+            "secondaires": 7,
+            "total": 13,
+            "cumul": 23
+          },
+          {
+            "tour": 4,
+            "primaire": 6,
+            "secondaires": 10,
+            "total": 16,
+            "cumul": 39
+          },
+          {
+            "tour": 5,
+            "primaire": 10,
+            "secondaires": 11,
+            "total": 21,
+            "cumul": 60
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "schema_version": "1.0",
+    "type": "partie",
+    "game_date": "2026-09-25",
+    "edition": "11e",
+    "rules_source": "Core Rulebook Missions",
+    "mission_pack": "Default Missions",
+    "deployment": "Search and Destroy",
+    "special_rules": "None",
+    "missions": [
+      "Meatgrinder",
+      "Meatgrinder"
+    ],
+    "players": [
+      {
+        "name": "Zenthea",
+        "is_me": true,
+        "faction": "Nécrons",
+        "disposition": "Purge The Foe",
+        "went_first": false,
+        "tournament_score": 10,
+        "tournament_result": "draw",
+        "primary": {
+          "name": "Meatgrinder",
+          "per_turn": [
+            0,
+            8,
+            14,
+            14,
+            15
+          ],
+          "raw_total": 51,
+          "total": 45
+        },
+        "secondaries": [
+          {
+            "name": "A Tempting Target",
+            "per_turn": [
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Plunder",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Secure No Man's Land",
+            "per_turn": [
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Display of Might",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              2
+            ],
+            "total": 2
+          },
+          {
+            "name": "Assassination",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Defend Stronghold",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Overwhelming Force",
+            "per_turn": [
+              0,
+              0,
+              0,
+              3,
+              0
+            ],
+            "total": 3
+          },
+          {
+            "name": "No Prisoners",
+            "per_turn": [
+              0,
+              0,
+              0,
+              4,
+              0
+            ],
+            "total": 4
+          },
+          {
+            "name": "Cleanse",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          },
+          {
+            "name": "Forward Position",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          }
+        ],
+        "secondaries_total": 37,
+        "battle_ready": 10,
+        "battle_points": 92,
+        "points_by_turn": [
+          {
+            "tour": 1,
+            "primaire": 0,
+            "secondaires": 0,
+            "total": 0,
+            "cumul": 0
+          },
+          {
+            "tour": 2,
+            "primaire": 8,
+            "secondaires": 0,
+            "total": 8,
+            "cumul": 8
+          },
+          {
+            "tour": 3,
+            "primaire": 14,
+            "secondaires": 10,
+            "total": 24,
+            "cumul": 32
+          },
+          {
+            "tour": 4,
+            "primaire": 14,
+            "secondaires": 15,
+            "total": 29,
+            "cumul": 61
+          },
+          {
+            "tour": 5,
+            "primaire": 15,
+            "secondaires": 12,
+            "total": 27,
+            "cumul": 82
+          }
+        ]
+      },
+      {
+        "name": "DaskaR",
+        "is_me": false,
+        "faction": "Space Marines Du Chaos",
+        "disposition": "Purge The Foe",
+        "went_first": true,
+        "tournament_score": 10,
+        "tournament_result": "draw",
+        "primary": {
+          "name": "Meatgrinder",
+          "per_turn": [
+            3,
+            12,
+            4,
+            12,
+            9
+          ],
+          "raw_total": 40,
+          "total": 40
+        },
+        "secondaries": [
+          {
+            "name": "Assassination",
+            "per_turn": [
+              0,
+              5,
+              0,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Overwhelming Force",
+            "per_turn": [
+              0,
+              3,
+              0,
+              0,
+              0
+            ],
+            "total": 3
+          },
+          {
+            "name": "Plunder",
+            "per_turn": [
+              0,
+              5,
+              0,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Bring It Down",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Burden of Trust",
+            "per_turn": [
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Forward Position",
+            "per_turn": [
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Cleanse",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Display of Might",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Beacon",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          },
+          {
+            "name": "A Tempting Target",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Behind Enemy Lines",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          }
+        ],
+        "secondaries_total": 40,
+        "battle_ready": 10,
+        "battle_points": 90,
+        "points_by_turn": [
+          {
+            "tour": 1,
+            "primaire": 3,
+            "secondaires": 0,
+            "total": 3,
+            "cumul": 3
+          },
+          {
+            "tour": 2,
+            "primaire": 12,
+            "secondaires": 13,
+            "total": 25,
+            "cumul": 28
+          },
+          {
+            "tour": 3,
+            "primaire": 4,
+            "secondaires": 7,
+            "total": 11,
+            "cumul": 39
+          },
+          {
+            "tour": 4,
+            "primaire": 12,
+            "secondaires": 10,
+            "total": 22,
+            "cumul": 61
+          },
+          {
+            "tour": 5,
+            "primaire": 9,
+            "secondaires": 10,
+            "total": 19,
+            "cumul": 80
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  },
+  {
+    "schema_version": "1.0",
+    "type": "partie",
+    "game_date": "2026-10-30",
+    "edition": "11e",
+    "rules_source": "Core Rulebook Missions",
+    "mission_pack": "Default Missions",
+    "deployment": "Tipping Point",
+    "special_rules": "None",
+    "missions": [
+      "Meatgrinder",
+      "Meatgrinder"
+    ],
+    "players": [
+      {
+        "name": "Zenthea",
+        "is_me": true,
+        "faction": "Drukhari",
+        "disposition": "Purge The Foe",
+        "went_first": true,
+        "tournament_score": 14,
+        "tournament_result": "victory",
+        "primary": {
+          "name": "Meatgrinder",
+          "per_turn": [
+            0,
+            4,
+            7,
+            7,
+            12
+          ],
+          "raw_total": 30,
+          "total": 30
+        },
+        "secondaries": [
+          {
+            "name": "Plunder",
+            "per_turn": [
+              5,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Display of Might",
+            "per_turn": [
+              2,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Secure No Man's Land",
+            "per_turn": [
+              0,
+              5,
+              0,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Bring It Down",
+            "per_turn": [
+              0,
+              5,
+              0,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Defend Stronghold",
+            "per_turn": [
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Beacon",
+            "per_turn": [
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            "total": 3
+          },
+          {
+            "name": "Behind Enemy Lines",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              3
+            ],
+            "total": 3
+          },
+          {
+            "name": "Outflank",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Centre Ground",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          },
+          {
+            "name": "Burden of Trust",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          }
+        ],
+        "secondaries_total": 38,
+        "battle_ready": 10,
+        "battle_points": 78,
+        "points_by_turn": [
+          {
+            "tour": 1,
+            "primaire": 0,
+            "secondaires": 7,
+            "total": 7,
+            "cumul": 7
+          },
+          {
+            "tour": 2,
+            "primaire": 4,
+            "secondaires": 10,
+            "total": 14,
+            "cumul": 21
+          },
+          {
+            "tour": 3,
+            "primaire": 7,
+            "secondaires": 8,
+            "total": 15,
+            "cumul": 36
+          },
+          {
+            "tour": 4,
+            "primaire": 7,
+            "secondaires": 5,
+            "total": 12,
+            "cumul": 48
+          },
+          {
+            "tour": 5,
+            "primaire": 12,
+            "secondaires": 8,
+            "total": 20,
+            "cumul": 68
+          }
+        ]
+      },
+      {
+        "name": "Morarf",
+        "is_me": false,
+        "faction": "Space Marines",
+        "disposition": "Purge The Foe",
+        "went_first": false,
+        "tournament_score": 6,
+        "tournament_result": "defeat",
+        "primary": {
+          "name": "Meatgrinder",
+          "per_turn": [
+            0,
+            12,
+            8,
+            0,
+            7
+          ],
+          "raw_total": 27,
+          "total": 27
+        },
+        "secondaries": [
+          {
+            "name": "Beacon",
+            "per_turn": [
+              3,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 3
+          },
+          {
+            "name": "Display of Might",
+            "per_turn": [
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            "total": 2
+          },
+          {
+            "name": "Forward Position",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Cleanse",
+            "per_turn": [
+              0,
+              0,
+              0,
+              5,
+              0
+            ],
+            "total": 5
+          },
+          {
+            "name": "Overwhelming Force",
+            "per_turn": [
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            "total": 3
+          },
+          {
+            "name": "A Tempting Target",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Outflank",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Bring It Down",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          },
+          {
+            "name": "Centre Ground",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              5
+            ],
+            "total": 5
+          },
+          {
+            "name": "Behind Enemy Lines",
+            "per_turn": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "total": 0
+          }
+        ],
+        "secondaries_total": 18,
+        "battle_ready": 10,
+        "battle_points": 55,
+        "points_by_turn": [
+          {
+            "tour": 1,
+            "primaire": 0,
+            "secondaires": 3,
+            "total": 3,
+            "cumul": 3
+          },
+          {
+            "tour": 2,
+            "primaire": 12,
+            "secondaires": 0,
+            "total": 12,
+            "cumul": 15
+          },
+          {
+            "tour": 3,
+            "primaire": 8,
+            "secondaires": 5,
+            "total": 13,
+            "cumul": 28
+          },
+          {
+            "tour": 4,
+            "primaire": 0,
+            "secondaires": 5,
+            "total": 5,
+            "cumul": 33
+          },
+          {
+            "tour": 5,
+            "primaire": 7,
+            "secondaires": 5,
+            "total": 12,
+            "cumul": 45
+          }
+        ]
+      }
+    ],
+    "warnings": []
+  }
+]

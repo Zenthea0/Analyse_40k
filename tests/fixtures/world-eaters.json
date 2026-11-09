@@ -1,0 +1,466 @@
+{
+  "schema_version": "1.0",
+  "type": "liste",
+  "name": "World Eaters En entraînement",
+  "faction": "World Eaters",
+  "detachments": [
+    "Berzerker Warband",
+    "Vaisseaux de la Colère"
+  ],
+  "strategy": "Éliminez l’Adversaire",
+  "battle_size": 2000,
+  "total_points": 2000,
+  "source": {
+    "app_version": "v2.8.1 (149)",
+    "data_version": "v995"
+  },
+  "attached_groups": [
+    {
+      "group": "Unité 1 Attachée",
+      "members": [
+        "u01",
+        "u02"
+      ]
+    },
+    {
+      "group": "Unité 2 Attachée",
+      "members": [
+        "u03",
+        "u04"
+      ]
+    },
+    {
+      "group": "Unité 3 Attachée",
+      "members": [
+        "u05",
+        "u06"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "u01",
+      "name": "Slaughterbound",
+      "points": 90,
+      "role": "Meneur",
+      "unit_type": "Personnage",
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Lacerator and daemonic claw"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u02",
+      "name": "Eightbound",
+      "points": 250,
+      "role": "Gardes du Corps",
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 1,
+          "name": "Eightbound Champion"
+        },
+        {
+          "count": 5,
+          "name": "Eightbound"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Chainblades"
+        },
+        {
+          "count": 5,
+          "name": "Chainblades"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u03",
+      "name": "Khârn the Betrayer",
+      "points": 115,
+      "role": "Meneur",
+      "unit_type": "Personnage",
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Gorechild"
+        },
+        {
+          "count": 1,
+          "name": "Plasma pistol"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u04",
+      "name": "Khorne Berzerkers",
+      "points": 170,
+      "role": "Gardes du Corps",
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 1,
+          "name": "Khorne Berzerker Champion"
+        },
+        {
+          "count": 9,
+          "name": "Khorne Berzerker"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Chainblade"
+        },
+        {
+          "count": 1,
+          "name": "Icon of Khorne"
+        },
+        {
+          "count": 1,
+          "name": "Plasma pistol"
+        },
+        {
+          "count": 7,
+          "name": "Bolt pistol"
+        },
+        {
+          "count": 7,
+          "name": "Chainblade"
+        },
+        {
+          "count": 2,
+          "name": "Khornate eviscerator"
+        },
+        {
+          "count": 2,
+          "name": "Plasma pistol"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u05",
+      "name": "Master of Executions",
+      "points": 80,
+      "role": "Meneur",
+      "unit_type": "Personnage",
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Axe of dismemberment"
+        },
+        {
+          "count": 1,
+          "name": "Bolt pistol"
+        }
+      ],
+      "options": [
+        {
+          "type": "optimisation",
+          "name": "Favoured of Khorne"
+        }
+      ]
+    },
+    {
+      "id": "u06",
+      "name": "Khorne Berzerkers",
+      "points": 170,
+      "role": "Gardes du Corps",
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 1,
+          "name": "Khorne Berzerker Champion"
+        },
+        {
+          "count": 9,
+          "name": "Khorne Berzerker"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Chainblade"
+        },
+        {
+          "count": 1,
+          "name": "Icon of Khorne"
+        },
+        {
+          "count": 1,
+          "name": "Plasma pistol"
+        },
+        {
+          "count": 7,
+          "name": "Bolt pistol"
+        },
+        {
+          "count": 7,
+          "name": "Chainblade"
+        },
+        {
+          "count": 2,
+          "name": "Khornate eviscerator"
+        },
+        {
+          "count": 2,
+          "name": "Plasma pistol"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u07",
+      "name": "Angron",
+      "points": 330,
+      "role": null,
+      "unit_type": null,
+      "warlord": true,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Samni’arius and Spinegrinder"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u08",
+      "name": "Chaos Rhino",
+      "points": 75,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Armoured tracks"
+        },
+        {
+          "count": 2,
+          "name": "Combi-bolter"
+        },
+        {
+          "count": 1,
+          "name": "Havoc launcher"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u09",
+      "name": "Chaos Rhino",
+      "points": 75,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Armoured tracks"
+        },
+        {
+          "count": 2,
+          "name": "Combi-bolter"
+        },
+        {
+          "count": 1,
+          "name": "Havoc launcher"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u10",
+      "name": "Chaos Spawn",
+      "points": 95,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 2,
+          "name": "Chaos Spawn"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 2,
+          "name": "Hideous mutations"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u11",
+      "name": "Defiler",
+      "points": 270,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Electroscourge"
+        },
+        {
+          "count": 2,
+          "name": "Excruciator cannon"
+        },
+        {
+          "count": 1,
+          "name": "Hades battle cannon"
+        },
+        {
+          "count": 1,
+          "name": "Heavy baleflamer"
+        },
+        {
+          "count": 1,
+          "name": "Shearing claws"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u12",
+      "name": "Forgefiend",
+      "points": 145,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Ectoplasma cannon"
+        },
+        {
+          "count": 1,
+          "name": "Forgefiend claws"
+        },
+        {
+          "count": 2,
+          "name": "Hades autocannon"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u13",
+      "name": "Goremongers",
+      "points": 70,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 1,
+          "name": "Blood Herald"
+        },
+        {
+          "count": 7,
+          "name": "Goremongers"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Autopistol"
+        },
+        {
+          "count": 1,
+          "name": "Chainblade"
+        },
+        {
+          "count": 1,
+          "name": "Close combat weapon"
+        },
+        {
+          "count": 7,
+          "name": "Autopistol"
+        },
+        {
+          "count": 7,
+          "name": "Chainblade"
+        },
+        {
+          "count": 7,
+          "name": "Close combat weapon"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u14",
+      "name": "Jakhals",
+      "points": 65,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 1,
+          "name": "Jakhal Pack Leader"
+        },
+        {
+          "count": 1,
+          "name": "Dishonoured"
+        },
+        {
+          "count": 8,
+          "name": "Jakhal"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Autopistol"
+        },
+        {
+          "count": 1,
+          "name": "Chainblades"
+        },
+        {
+          "count": 1,
+          "name": "Skullsmasher and mangler"
+        },
+        {
+          "count": 8,
+          "name": "Autopistol"
+        },
+        {
+          "count": 8,
+          "name": "Chainblades"
+        },
+        {
+          "count": 1,
+          "name": "Icon of Khorne"
+        }
+      ],
+      "options": []
+    }
+  ],
+  "warnings": []
+}

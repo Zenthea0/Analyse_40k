@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0",
+  "type": "liste",
+  "name": "Liste L3",
+  "faction": "Nécrons",
+  "detachments": [
+    "Cursed Legion",
+    "Fer de Lance Linceul Céleste"
+  ],
+  "strategy": "Éliminez l’Adversaire",
+  "battle_size": 2000,
+  "total_points": 2000,
+  "source": {
+    "app_version": "v2.8.1 (149)",
+    "data_version": "v995"
+  },
+  "attached_groups": [
+    {
+      "group": "Unité 1 Attachée",
+      "members": [
+        "u01",
+        "u02"
+      ]
+    },
+    {
+      "group": "Unité 2 Attachée",
+      "members": [
+        "u03",
+        "u04"
+      ]
+    },
+    {
+      "group": "Unité 3 Attachée",
+      "members": [
+        "u05",
+        "u06"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "u01",
+      "name": "Technomancer",
+      "points": 80,
+      "role": "Appui",
+      "unit_type": "Personnage",
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Staff of light"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u02",
+      "name": "Canoptek Wraiths",
+      "points": 220,
+      "role": "Gardes du Corps",
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 6,
+          "name": "Canoptek Wraith"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 6,
+          "name": "Vicious claws"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u03",
+      "name": "Lokhust Lord",
+      "points": 100,
+      "role": "Meneur",
+      "unit_type": "Personnage",
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Lord’s blade"
+        },
+        {
+          "count": 1,
+          "name": "Resurrection Orb"
+        }
+      ],
+      "options": [
+        {
+          "type": "optimisation",
+          "name": "Mark of the Nekrosor"
+        }
+      ]
+    },
+    {
+      "id": "u04",
+      "name": "Lokhust Destroyers",
+      "points": 190,
+      "role": "Gardes du Corps",
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 6,
+          "name": "Lokhust Destroyer"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 6,
+          "name": "Close combat weapon"
+        },
+        {
+          "count": 6,
+          "name": "Gauss cannon"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u05",
+      "name": "Lokhust Lord",
+      "points": 80,
+      "role": "Meneur",
+      "unit_type": "Personnage",
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Lord’s blade"
+        },
+        {
+          "count": 1,
+          "name": "Resurrection Orb"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u06",
+      "name": "Lokhust Destroyers",
+      "points": 210,
+      "role": "Gardes du Corps",
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 6,
+          "name": "Lokhust Destroyer"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 6,
+          "name": "Close combat weapon"
+        },
+        {
+          "count": 6,
+          "name": "Gauss cannon"
+        }
+      ],
+      "options": [
+        {
+          "type": "amélioration",
+          "name": "Folie Croissante"
+        }
+      ]
+    },
+    {
+      "id": "u07",
+      "name": "C’tan Shard of the Nightbringer",
+      "points": 360,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Gaze of death"
+        },
+        {
+          "count": 1,
+          "name": "Scythe of the Nightbringer"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u08",
+      "name": "Imotekh the Stormlord",
+      "points": 100,
+      "role": null,
+      "unit_type": null,
+      "warlord": true,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Gauntlet of Fire"
+        },
+        {
+          "count": 1,
+          "name": "Staff of the Destroyer"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u09",
+      "name": "Nekrosor Ammentar",
+      "points": 195,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Blade tail and whip coils"
+        },
+        {
+          "count": 1,
+          "name": "Enmitic disintegrators"
+        },
+        {
+          "count": 1,
+          "name": "Nullstone Field Generator (Aura)"
+        },
+        {
+          "count": 1,
+          "name": "Unmaker Gauntlet"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u10",
+      "name": "Skorpekh Lord",
+      "points": 95,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [],
+      "wargear": [
+        {
+          "count": 1,
+          "name": "Enmitic annihilator"
+        },
+        {
+          "count": 1,
+          "name": "Flensing claw"
+        },
+        {
+          "count": 1,
+          "name": "Hyperphase harvester"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u11",
+      "name": "Immortals",
+      "points": 65,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 5,
+          "name": "Immortal"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 5,
+          "name": "Close combat weapon"
+        },
+        {
+          "count": 5,
+          "name": "Gauss blaster"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u12",
+      "name": "Flayed Ones",
+      "points": 55,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 5,
+          "name": "Flayed One"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 5,
+          "name": "Flayer claws"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u13",
+      "name": "Ophydian Destroyers",
+      "points": 80,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 3,
+          "name": "Ophydian Destroyer"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 3,
+          "name": "Ophydian hyperphase weapons"
+        },
+        {
+          "count": 1,
+          "name": "Plasmacyte"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "u14",
+      "name": "Skorpekh Destroyers",
+      "points": 170,
+      "role": null,
+      "unit_type": null,
+      "warlord": false,
+      "models": [
+        {
+          "count": 6,
+          "name": "Skorpekh Destroyer"
+        }
+      ],
+      "wargear": [
+        {
+          "count": 2,
+          "name": "Plasmacyte"
+        },
+        {
+          "count": 6,
+          "name": "Skorpekh hyperphase weapons"
+        }
+      ],
+      "options": []
+    }
+  ],
+  "warnings": []
+}
